@@ -1,0 +1,15 @@
+C:\Users\44438098807\Desktop\Aula de POO\obj\Debug\net9.0\Aula de POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44438098807\Desktop\Aula de POO\obj\Debug\net9.0\Aula de POO.AssemblyInfoInputs.cache
+C:\Users\44438098807\Desktop\Aula de POO\obj\Debug\net9.0\Aula de POO.AssemblyInfo.cs
+C:\Users\44438098807\Desktop\Aula de POO\obj\Debug\net9.0\Aula de POO.csproj.CoreCompileInputs.cache
+C:\Users\44438098807\Desktop\Aula de POO\obj\Debug\net9.0\Aula de POO.sourcelink.json
+C:\Users\44438098807\Desktop\Aula de POO\bin\Debug\net9.0\Aula de POO.exe
+C:\Users\44438098807\Desktop\Aula de POO\bin\Debug\net9.0\Aula de POO.deps.json
+C:\Users\44438098807\Desktop\Aula de POO\bin\Debug\net9.0\Aula de POO.runtimeconfig.json
+C:\Users\44438098807\Desktop\Aula de POO\bin\Debug\net9.0\Aula de POO.dll
+C:\Users\44438098807\Desktop\Aula de POO\bin\Debug\net9.0\Aula de POO.pdb
+C:\Users\44438098807\Desktop\Aula de POO\obj\Debug\net9.0\Aula de POO.dll
+C:\Users\44438098807\Desktop\Aula de POO\obj\Debug\net9.0\refint\Aula de POO.dll
+C:\Users\44438098807\Desktop\Aula de POO\obj\Debug\net9.0\Aula de POO.pdb
+C:\Users\44438098807\Desktop\Aula de POO\obj\Debug\net9.0\Aula de POO.genruntimeconfig.cache
+C:\Users\44438098807\Desktop\Aula de POO\obj\Debug\net9.0\ref\Aula de POO.dll
