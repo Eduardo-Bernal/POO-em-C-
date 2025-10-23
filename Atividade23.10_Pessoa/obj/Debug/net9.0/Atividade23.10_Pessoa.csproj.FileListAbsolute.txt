@@ -1,0 +1,15 @@
+C:\Users\44438098807\Desktop\Aula de POO\Atividade23.10_Pessoa\bin\Debug\net9.0\Atividade23.10_Pessoa.exe
+C:\Users\44438098807\Desktop\Aula de POO\Atividade23.10_Pessoa\bin\Debug\net9.0\Atividade23.10_Pessoa.deps.json
+C:\Users\44438098807\Desktop\Aula de POO\Atividade23.10_Pessoa\bin\Debug\net9.0\Atividade23.10_Pessoa.runtimeconfig.json
+C:\Users\44438098807\Desktop\Aula de POO\Atividade23.10_Pessoa\bin\Debug\net9.0\Atividade23.10_Pessoa.dll
+C:\Users\44438098807\Desktop\Aula de POO\Atividade23.10_Pessoa\bin\Debug\net9.0\Atividade23.10_Pessoa.pdb
+C:\Users\44438098807\Desktop\Aula de POO\Atividade23.10_Pessoa\obj\Debug\net9.0\Atividade23.10_Pessoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44438098807\Desktop\Aula de POO\Atividade23.10_Pessoa\obj\Debug\net9.0\Atividade23.10_Pessoa.AssemblyInfoInputs.cache
+C:\Users\44438098807\Desktop\Aula de POO\Atividade23.10_Pessoa\obj\Debug\net9.0\Atividade23.10_Pessoa.AssemblyInfo.cs
+C:\Users\44438098807\Desktop\Aula de POO\Atividade23.10_Pessoa\obj\Debug\net9.0\Atividade23.10_Pessoa.csproj.CoreCompileInputs.cache
+C:\Users\44438098807\Desktop\Aula de POO\Atividade23.10_Pessoa\obj\Debug\net9.0\Atividade23.10_Pessoa.sourcelink.json
+C:\Users\44438098807\Desktop\Aula de POO\Atividade23.10_Pessoa\obj\Debug\net9.0\Atividade23.10_Pessoa.dll
+C:\Users\44438098807\Desktop\Aula de POO\Atividade23.10_Pessoa\obj\Debug\net9.0\refint\Atividade23.10_Pessoa.dll
+C:\Users\44438098807\Desktop\Aula de POO\Atividade23.10_Pessoa\obj\Debug\net9.0\Atividade23.10_Pessoa.pdb
+C:\Users\44438098807\Desktop\Aula de POO\Atividade23.10_Pessoa\obj\Debug\net9.0\Atividade23.10_Pessoa.genruntimeconfig.cache
+C:\Users\44438098807\Desktop\Aula de POO\Atividade23.10_Pessoa\obj\Debug\net9.0\ref\Atividade23.10_Pessoa.dll
